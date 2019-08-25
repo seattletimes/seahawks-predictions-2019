@@ -1,0 +1,58 @@
+{
+  "bob": {
+    "name": "Bob Condotta",
+    "comment": "For all that the Seahawks no longer have — the mainstays of the Legion of Boom and what was maybe the best pass-rush duo in team history — they still have one of the best quarterbacks in the NFL in Russell Wilson. And that alone should keep the Seahawks in most games. Seattle also should be better in special teams this year. But the Seahawks are counting on a lot of players to take significant leaps to be able to get back to double-digit wins and the schedule doesn’t seem to offer a lot of easy wins.",
+    "wins": 9,
+    "loss": 7,
+    "title": "Seahawks beat writer"
+  },
+  "mike": {
+    "name": "Mike Vorel",
+    "comment": "The Seahawks enter a new era with more questions than answers. Without Michael Bennett and Cliff Avril, will the team be able to generate a pass rush? Without Richard Sherman and Kam Chancellor (and for the time being, Earl Thomas), is \"The Legion of Boom\" really dead? How will Russell Wilson and Co. adjust to first-year offensive coordinator Brian Schottenheimer? The truth is that this team isn't simply less experienced than the ones that recently dominated the NFC. It's less talented, too. The Seahawks will be fun to watch, but we won't be watching them in the playoffs.",
+    "wins": 7,
+    "loss": 9,
+    "title": "Seahawks beat writer"
+  },
+  "larry": {
+    "name": "Larry Stone",
+    "comment": "This is the most unpredictable Seahawks’ season in years, but what the heck, let’s predict it anyway. With the departures of so many key players, and the introduction of so many new players, the Seahawks could go any which way, but I see them going right down the middle to a .500 finish. As long as they have Russell Wilson at quarterback, they have a fighting chance to win every game. If the line coalesces and the running game develops, I will have undershot the mark.",
+    "wins": 8,
+    "loss": 8,
+    "title": "Columnist"
+  },
+  "matt": {
+    "name": "Matt Calkins",
+    "comment": "The Seahawks have just lost too much. With Richard Sherman, Kam Chancellor and presumably Earl Thomas out, the cornerstones of what may have been the greatest secondary in history are all gone. Add a missing Cliff Avril and Michael Bennett, and you have a defense virtually relying on linebackers Bobby Wagner and K.J. Wright. Russell Wilson is still one of the best quarterbacks in football, but with the offensive line and run game still unproven, this team will struggle to put points on the board.",
+    "wins": 7,
+    "loss": 9,
+    "title": "Columnist"
+  },
+  "paul": {
+    "name": "Paul Barrett",
+    "comment": "The Seahawks lost a lot of star power in the offseason but are not devoid of talent, with six Pro Bowl-level players on the roster (not including holdout safety Earl Thomas). Still, they have major question marks on both sides of the ball, especially with the running game and defensive line. It’s tough to see them returning to the postseason after a one-year absence.",
+    "wins": 8,
+    "loss": 8,
+    "title": "Sports Editor"
+  },
+  "alex": {
+    "name": "Alex Iniguez",
+    "comment": "A tough schedule paired with a less-talented roster is not a recipe for success. Having a new offensive coordinator could be a good thing, but with apologies to Brian Schottenheimer, it’s more likely to be a dumpster fire. Maybe the Seahawks will surprise us with a winning record, or at least an 8-8 mark. But I’m not betting my rent money on it. That’s OK! It’s a rebuilding year — it happens, at some point, to most teams not run by a robot head coach in New England. I’m just hoping this season will still be somewhat interesting without Richard Sherman and Kam Chancellor around.",
+    "wins": 7,
+    "loss": 9,
+    "title": "Assistant Sports Editor"
+  },
+  "stef": {
+    "name": "Stefanie Loh",
+    "comment": "This is billed as a rebuilding year for the Seahawks, and that’s exactly what I think it will be. However, you’ve got to think that Russell Wilson’s presence in itself – albeit behind a still-shaky offensive line – is enough to at least get them six wins, right? Beyond Wilson’s magician moves, there are many questions at running back, on the defensive line and in the retooled secondary. All in all, I’m feeling a ceiling of 8 wins as a best-case scenario. They might get on the playoff bubble, but anything other than wild-card contention seems improbable.",
+    "wins": 7,
+    "loss": 9,
+    "title": "Assistant Sports Editor"
+  },
+  "evan": {
+    "name": "Evan Webeck",
+    "comment": "For all the talk of the last few years of the coming end of an era and a closing of a window, it appears to have finally arrived. Sure, Russell and Pete are still here — that's enough of a spark for a rebuilt, underdogs-again supporting cast to piece together a competitive season and give fans a faint sense of familiarity. Inevitably, it will feel different when the story is no longer the boom, but the bust.",
+    "wins": 9,
+    "loss": 7,
+    "title": "Digital Sports Producer"
+  }
+}

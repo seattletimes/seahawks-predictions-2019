@@ -1,0 +1,41 @@
+{
+  "49ers": {
+    "logo": "49ers.png"
+  },
+  "Cardinals": {
+    "logo": "cardinals.png"
+  },
+  "Rams": {
+    "logo": "rams.png"
+  },
+  "Broncos": {
+    "logo": "broncos.png"
+  },
+  "Bears": {
+    "logo": "bears.png"
+  },
+  "Cowboys": {
+    "logo": "cowboys.png"
+  },
+  "Raiders": {
+    "logo": "raiders.png"
+  },
+  "Lions": {
+    "logo": "lions.png"
+  },
+  "Chargers": {
+    "logo": "chargers.png"
+  },
+  "Packers": {
+    "logo": "packers.png"
+  },
+  "Panthers": {
+    "logo": "panthers.png"
+  },
+  "Vikings": {
+    "logo": "vikings.png"
+  },
+  "Chiefs": {
+    "logo": "chiefs.png"
+  }
+}
