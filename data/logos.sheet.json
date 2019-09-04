@@ -1,6 +1,12 @@
 {
-  "49ers": {
-    "logo": "49ers.png"
+  "Bengals": {
+    "logo": "bengals.png"
+  },
+  "Steelers": {
+    "logo": "steelers.png"
+  },
+  "Saints": {
+    "logo": "saints.png"
   },
   "Cardinals": {
     "logo": "cardinals.png"
@@ -8,34 +14,28 @@
   "Rams": {
     "logo": "rams.png"
   },
-  "Broncos": {
-    "logo": "broncos.png"
+  "Browns": {
+    "logo": "browns.png"
   },
-  "Bears": {
-    "logo": "bears.png"
+  "Ravens": {
+    "logo": "ravens.png"
   },
-  "Cowboys": {
-    "logo": "cowboys.png"
+  "Falcons": {
+    "logo": "falcons.png"
   },
-  "Raiders": {
-    "logo": "raiders.png"
+  "Buccaneers": {
+    "logo": "buccaneers.png"
   },
-  "Lions": {
-    "logo": "lions.png"
+  "49ers": {
+    "logo": "49ers.png"
   },
-  "Chargers": {
-    "logo": "chargers.png"
-  },
-  "Packers": {
-    "logo": "packers.png"
-  },
-  "Panthers": {
-    "logo": "panthers.png"
+  "Eagles": {
+    "logo": "eagles.png"
   },
   "Vikings": {
     "logo": "vikings.png"
   },
-  "Chiefs": {
-    "logo": "chiefs.png"
+  "Panthers": {
+    "logo": "panthers.png"
   }
 }
